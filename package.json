@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://thomas-marth.github.io/hw10-templates-localstorage/",
+  "homepage": "http://thomas-marth.github.io/hw10-templates-localstorage",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /hw10-templates-localstorage/"
